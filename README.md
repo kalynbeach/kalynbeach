@@ -1,16 +1,16 @@
-## Hi there 👋
+## Kalyn Beach
 
-<!--
-**kalynbeach/kalynbeach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design and build products, systems, agents & agent workflows and real-time creative software.
 
-Here are some ideas to get you started:
+I'm a self-taught go-getter. I stay open-minded, I'm always learning and I'm continually evolving my craft.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Previously led foundational engineering on Gist GEO at ProRata AI after nine years scaling web products & platforms, migrations, and performance systems across Demand Media, Leaf Group and World of Good Brands.
+
+### Selected work
+
+- **[kkb-audio](https://github.com/kalynbeach/kkb-audio)** — Real-time audio engine running in the browser and natively on macOS ([live player](https://kkb-audio.vercel.app))
+- **[Kevelle](https://registry.kkb.systems)** — Personal design system published as a 91-item component registry
+- **[ui-lab](https://github.com/kalynbeach/ui-lab)** — Interactive interface and WavePlayer studies
+- **[kalynbeach.net](https://kalynbeach.net)** — Personal site
+
+[kalynbeach.net](https://kalynbeach.net) · [LinkedIn](https://linkedin.com/in/kalynbeach) · [kalynbeach@gmail.com](mailto:kalynbeach@gmail.com)
